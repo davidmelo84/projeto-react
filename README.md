@@ -48,11 +48,17 @@ npm install
 Scripts
 
 npm start: Inicia a aplicação em modo de desenvolvimento. Acesse http://localhost:3000 para visualizar no navegador.
+
 npm test: Executa os testes em modo interativo.
+
 npm run build: Cria uma versão otimizada da aplicação para produção.
+
 npm run lint: Verifica o código em busca de problemas de linting.
+
 npm run lint:fix: Corrige problemas de linting automaticamente.
+
 npm run format: Formata o código usando Prettier.
+
 npm run api: Inicia o JSON Server para a API local.
 
 Hooks Utilizados
